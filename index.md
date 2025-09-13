@@ -6,3 +6,4 @@
 while (True)
   print("Hello World!")
 ```
+- [x] Remove System32
